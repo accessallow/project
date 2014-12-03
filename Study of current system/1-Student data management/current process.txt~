@@ -1,0 +1,38 @@
+Current Process
+----------------------------------------------------------------------------------------
+
+﻿Every semester student registration is done. In student's registration process student fill an offline student's registration form. In this form students fill some old and some new details. The Informational schema is as follows:
+
+<<inode diagram-1 : registration schema >>
+
+The filled student form is undergone a manual process of revalidation/recheck by authority(TG/HOD). As a proof of fee-deposit student needs to show his/her fee reciepts to the concerned registeration authority(TG). At this point there is no any live communication between the TG and account's department is present and registration solely depends upon the fee-reciept paper proof.
+After registration process a big pile of student's registration form is collected and is kept under scruitiny for the whole semester under any specific supervision.
+
+What is in the form: (information and its content weightage) 
+New pictures - 10%
+Contact details - 10%
+existing details - 50%
+feedback about college - 30%
+
+<<inode diagram-2 : pi-chart using above details >>
+
+Above mentioned 30% existing details about student (which are not liable to change throughout the cource - viz Name,Father's name, Mother's name, Home address) are refilled and revalidated again. This leads to wastage of time,effort and storage.
+----------------------------------------------------------------------------------------------------------------------
+Problems in it
+----------------------------------------
+First major problem around this issue is the cost involved in it. There is cost involved in fresh pictures, form reprinting and TG labour.An average teacher getting 30,000/- per month means rs 166/- per hour, is kept busy for hours in maintaining and compiling the stuff which should be totally automatic. This also waste total system time.
+Repeted information is collected in the system and practically there is no way to get rid of it.
+Inspite of all the efforts being done to ensure the process being easy, the major concern here is that the student data is not centrally avilable.
+
+Access and availability
+--------------------------
+data is sole responsibility of TG to protect and maintain under his scrutiny. TG is the main key person involved here to access studen't data.
+------------------------------------
+* Student - can communicate to TG in order to get(or modify) his information.It involved system boiler-plate.
+* HOD: if HOD wans to accees the studen't details then he needs to contact the corresponind TG in oder to wt  studen't information.The TG provided him the required information in the compiled formats.
+*Director - If director of the institute wants to access the studen't details then he needs to contact the respective department's HOD,then HOD contacts with the TG and information is so forwarded.
+*External Authority/TPO -> They contact the Director or the respective department and the information flow continues as mentioned above.
+
+<<inode diagram-3 : histogram showing information retrival boilerplate (distance vs time) >>
+
+Process,Storage and Retrival all the three important factors are very slow in the current system. We need to address the issue in such a way that information is processed,stored and respectively formatted without any manual effort,on the click of few buttons and all the time available. We also need to ensure that information is secured and authenticated to the latest as possible.

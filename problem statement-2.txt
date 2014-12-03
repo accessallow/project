@@ -1,0 +1,23 @@
+Problem Statement -2 
+---------------------------------------------------------------------------
+Oriental Institute of Science and Technology,An Engineering Institute having more than 3000 students base has been facing a lot of problems in managing the students data at this large scale. The existing paper-work based system is too slow to the new changes,sudden inquiry and its very hard and sometimes almost impossible to get any information on-hand for any query.
+---------------------------------------------------------------------------
+Institute is facing problems in following contexts:
+
+(1) Information about any student is not available on the hand if somebody wants to access it. Concerned body needs to go to respective departments and pull-up the bundles of TG-Files to search for student's data.
+
+(2) There is no any proof-based and fast communication medium between students and higher level management authorities which leads to confusion between management and students.Most of the time management can not determine what students actually want.
+
+(3) There is no any public-portal to share notices/hall-of-fame or anything conveyable to students. Absence of a common platform makes organisation of events unsuccessful and untouched in terms of student responce.
+
+(4) Attendance maintainance is really tough in existing system. Inspite of all the efforts, It leads of inaccuracy. A number of cases are brought to notice when student complaint about their attendance being unresonably less in records.
+
+(5) Accounts information is not centrally available which leads to confusion and repetetive work at the time of semester registration and exams. Also there is not any notification system for students to know if they have any dues pending.
+
+(6) Taking feedbacks is almost impossible these days. Doing it manually and then reading the feedbacks is really messy and time-consuming job. It also leads to inaccurate results of feedback and somtimes bad consequences.
+---------------------------------------------------------------------------
+
+Institute needs a software system that can manage all their complications easily and management authorities can focus on real-improvement rather than taking decisions on the basis of assumptions. 
+A management system will lead institute towards better management,better understanding and finally many folds better perforance.
+------------------------------------------------------------------------------
+

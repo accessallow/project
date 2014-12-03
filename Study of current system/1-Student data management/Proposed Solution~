@@ -1,0 +1,17 @@
+-------------------
+Proposed Solution: Student Registration Process
+--------------------------------------------------
+For this problem we are proposing a solution as an Online Studen registration process,as an Integrated part of our ERP system.Registration process will collect all the information from students in digital media.Registration process will take place across the LAN,each student will be sitting on a seperate computer and filling his application form.The process which used to take long time earlier will now be distributed and time-saving.
+We will envolve automatic evaluation and error-reporting strategies into the registration-data-validation process so that students do not make errorneous entries.
+
+This will solve follwing problems:
+(1) The problems involved with the paper-print media and its maintainance
+(2) Information will be digitally stored and readialy available
+(3) This will save numerous hours of TG time
+(4) It will avoid recurring work and entry-fullfillments
+After first registration student will first update necessary details only.
+(5) It will solve the availability problem with the data
+---------------------
+Additional Benifits
+-----------------------------------------------
+

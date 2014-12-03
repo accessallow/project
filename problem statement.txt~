@@ -1,0 +1,47 @@
+Oriental Institute of Science & Technology is a well known Engineering Institute of Central India.Each year around 700 students take admission in the college into different branches which are
+
+Computer Science Engineering
+Civil Engineering
+Mechnical Engineering
+Automobile Engineering
+Electronics and communication Engineering
+Electrical Engineering
+Information Technology Engineering
+
+From the admission to completion of 8 semester curriculum of engineering a number of events happen which tend to generate some kind of structural or non-structural data about a student. Some of which are :
+
+Student's admission details (Once time whole curriculum)
+Student's fee submission details ( Occurs in each semester + yearly cummulative)
+Student's semester regisration (Occurs in each semester)
+Students attendance( revision Occur in each semester)
+Student submits various complaints,requests feedbacks and other kind of recordable offciary
+Dues that student carries (Revise in each semester+ cumulative)
+	current semester dues
+	other pending dues liable to be cleared before leaving the curriculum
+Students academic history 
+	marks in subjects (Revise each semester + Recorded for whole curriculum)
+	current score and backlogs
+	backlog history
+	cummulative percentages
+
+Along with this data about student there is a lot of other data that lies among the communication of student to different official bodies.
+
+Each and every student is backed-up by a tutor guardian teacher who takes care of all the attendance details,document records,registration and its details. All the communication that student wants to convey to the higher authorities are initialted by tutor-guardian.
+(However student can communicate with higher authorities in exceptional cases)
+	Registering a complain
+	feedback and suggestions
+The professor who teach at the institute do the task of being tutor-guardian. A professor handles atleast 40 students under his/her TG-Aquirance. He holds all the records and other data about all those students. It comes under the responsibilities of TG to collect and convey any fine due on student. Tutor guardian holds the responsibility of facilitating bidirectional communication of student to different departments and higher authorities.
+
+In every branch,The Head of department(HOD) is the lead of entire branch and have to power to monitor the academics and attendace of student.He/She can publish notices on the department level. students and teachers in department can read them. 
+
+Director also plays significant role in monitoring student-performance on college level.He needs to see everything of academics and attendance on comparative levels,mainly in terms of graphs and reports of similar kind.He/She can publish notices on college-level which all the other students and teachers in college can see.
+
+Teachers update and keep record of daily occuring lecture wise attandance. Students are monitored lecturewise and are evaluated in same fashion.
+
+In present scenario,we see a lot of repetitive work and lack of communication which is leading to decrease in productivity and efficiency in the Institute. Our task is to provide an innovative and effective solution to the same which can increase the productivity and quality of various roles described above.
+
+
+Our target is to make an ERP system which should address the needs of the institute by reducing the amount of paper-work and increasing better understandability of the statistics of student releted data.
+	
+
+

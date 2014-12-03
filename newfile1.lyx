@@ -1,0 +1,384 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+TECHNOLOGY SURVEY
+\end_layout
+
+\begin_layout Section*
+Odoo
+\end_layout
+
+\begin_layout Standard
+Odoo is a suite of open-source business apps written in Python and released
+ under the AGPL license.
+ It is used by 2 million users worldwide to manage companies of all different
+ sizes.
+ The main Odoo components are the server, 260 core modules (also called
+ official modules) and around 4000 community modules.
+\end_layout
+
+\begin_layout Standard
+Odoo was formerly known as OpenERP until May 2014.
+ It was rebranded because version 8 of the software included apps including
+ website builder, e-commerce, point of sale and business intelligence.
+ The software conforms to standard expectations of ERP systems, while providing
+ additional modules beyond the coverage of traditional ERP systems.
+\end_layout
+
+\begin_layout Standard
+The official Odoo apps are organized in 6 groups:
+\end_layout
+
+\begin_layout Itemize
+Front-end apps: website builder, blog, e-commerce 
+\end_layout
+
+\begin_layout Itemize
+Sales management apps: CRM, point of sales, quotation builder
+\end_layout
+
+\begin_layout Itemize
+Business operations apps: project management, inventory, manufacturing,
+ accounting and purchase 
+\end_layout
+
+\begin_layout Itemize
+Marketing apps: mass mailing, lead automation, events, survey, forum, live
+ chat 
+\end_layout
+
+\begin_layout Itemize
+Human Resources apps: employee directory, enterprise social network, leaves
+ management, timesheet, fleet management
+\end_layout
+
+\begin_layout Itemize
+Productivity apps: business intelligence, instant messaging, notes
+\end_layout
+
+\begin_layout Standard
+The software is actively programmed, supported, and organized by OpenERP
+ s.a..
+ Odoo is similar to many open source projects where customized programming,
+ support, and other services are also provided by an active global community
+ and a network of 500 official partners.
+\end_layout
+
+\begin_layout Section
+Business Applications
+\end_layout
+
+\begin_layout Standard
+Odoo s.a.
+ provides a web site referencing the officially supported modules as well
+ as community modules.Community modules can be referenced for free as long
+ as they respect the open source licence of Odoo.
+ As of June 2014, the number of Odoo apps reached more than 4000.Official
+ apps include:
+\end_layout
+
+\begin_layout Itemize
+Sales Management 
+\end_layout
+
+\begin_layout Itemize
+Purchase Management 
+\end_layout
+
+\begin_layout Itemize
+Customer Relationship Management Project Management 
+\end_layout
+
+\begin_layout Itemize
+Warehouse Management 
+\end_layout
+
+\begin_layout Itemize
+Manufacturing Accounting & Finance
+\end_layout
+
+\begin_layout Itemize
+Content Management 
+\end_layout
+
+\begin_layout Itemize
+E-commerce 
+\end_layout
+
+\begin_layout Itemize
+Asset Management 
+\end_layout
+
+\begin_layout Itemize
+Human Resource Management 
+\end_layout
+
+\begin_layout Itemize
+Fleet Management 
+\end_layout
+
+\begin_layout Itemize
+Event Management 
+\end_layout
+
+\begin_layout Itemize
+Social Network 
+\end_layout
+
+\begin_layout Itemize
+Point of Sale 
+\end_layout
+
+\begin_layout Itemize
+Knowledge and Document Management 
+\end_layout
+
+\begin_layout Itemize
+Calendar 
+\end_layout
+
+\begin_layout Itemize
+Expense Management 
+\end_layout
+
+\begin_layout Itemize
+Time Tracking 
+\end_layout
+
+\begin_layout Itemize
+Employee Appraisals 
+\end_layout
+
+\begin_layout Itemize
+Manufacturing Resource Planning 
+\end_layout
+
+\begin_layout Itemize
+Portal 
+\end_layout
+
+\begin_layout Itemize
+Employee Directory 
+\end_layout
+
+\begin_layout Itemize
+Address Book 
+\end_layout
+
+\begin_layout Itemize
+Recruitment Process 
+\end_layout
+
+\begin_layout Itemize
+Payroll Management 
+\end_layout
+
+\begin_layout Section
+Architecture
+\end_layout
+
+\begin_layout Standard
+Odoo uses a Service Oriented Architecture as a software architecture design
+ pattern.
+\end_layout
+
+\begin_layout Subsection
+Web Application Architecture
+\end_layout
+
+\begin_layout Standard
+The most recent versions of Odoo (including version 7) are mostly implemented
+ as a web application.
+ Odoo includes an application server/web server (known as the Odoo Server)
+ that focuses on ERP business logic, stores data through an interface with
+ a database, and web client for web browsers access.
+ The server and business logic portion of Odoo is primarily written in the
+ Python programming language.
+ The web client is primarily written in JavaScript.
+\end_layout
+
+\begin_layout Subsection
+Modules
+\end_layout
+
+\begin_layout Standard
+Business features are organized into modules.
+ A module is a folder with a pre-defined structure containing Python code
+ and XML files.
+ A module defines data structure, forms, reports, menus, procedures, workflows,
+ etc...
+ Modules can also contain web components written in JavaScript.
+ 
+\end_layout
+
+\begin_layout Subsection
+Database
+\end_layout
+
+\begin_layout Standard
+Odoo uses PostgreSQL as the database management system.
+ PostgreSQL, often simply "Postgres", is an object-relational database managemen
+t system (ORDBMS) with an emphasis on extensibility and standards-compliance.
+ As a database server, its primary function is to store data, securely and
+ supporting best practices, and retrieve it later, as requested by other
+ software applications, be it those on the same computer or those running
+ on another computer across a network (including the Internet).
+ It can handle workloads ranging from small single-machine applications
+ to large Internet-facing applications with many concurrent users.
+ Recent versions also provide replication of the database itself for security
+ and scalability.
+\end_layout
+
+\begin_layout Standard
+PostgreSQL implements the majority of the SQL:2011 standard, is ACID-compliant
+ and transactional (including most DDL statements) avoiding locking issues
+ using multiversion concurrency control (MVCC), provides immunity to dirty
+ reads and full serializability; handles complex SQL queries using many
+ indexing methods that are not available in other databases; has updateable
+ views and materialized views, triggers, foreign keys; supports functions
+ and stored procedures, and other expandability,and has a large number of
+ extensions written by third parties.
+ In addition to the possibility of working with the major proprietary and
+ open source databases, PostgreSQL supports migration from them, by its
+ extensive standard SQL support and available migration tools.
+ And if proprietary extensions had been used, by its extensibility that
+ can emulate many through some built-in and third-party open source compatibilit
+y extensions, such as for Oracle.
+\end_layout
+
+\begin_layout Standard
+PostgreSQL is cross-platform and runs on many operating systems including
+ Linux, FreeBSD, Solaris, and Microsoft Windows.
+ Mac OS X, starting with OS X 10.7 Lion, has the server as its standard default
+ database in the server edition, and PostgreSQL client tools in the desktop
+ edition.
+ The vast majority of Linux distributions have it available in supplied
+ packages.
+\end_layout
+
+\begin_layout Standard
+PostgreSQL is developed by the PostgreSQL Global Development Group, a diverse
+ group of many companies and individual contributors.
+ It is free and open source software, released under the terms of the PostgreSQL
+ License, a permissive free software license.
+\end_layout
+
+\begin_layout Subsection
+Source code and contributions
+\end_layout
+
+\begin_layout Standard
+Odoo source code is hosted on the GitHub project hosting service, using
+ the Git distributed revision control system.
+ The documentation is published on a separate website.
+\end_layout
+
+\begin_layout Section
+Advantages of Odoo
+\end_layout
+
+\begin_layout Enumerate
+A full Fledge ERP software : OpenERP version 7 comes with a modular architecture
+ which provides you with new modules and further enterprise modules to streamlin
+e your business processes.
+\end_layout
+
+\begin_layout Enumerate
+Search Functionality : With OpenERP version 7 you can easily search across
+ the screen, you can also create advance search as per your requirement.
+\end_layout
+
+\begin_layout Enumerate
+Speed : Unlike the old version of OpenERP – Version 7 is quite faster in
+ providing you with the results and processing the request.
+\end_layout
+
+\begin_layout Enumerate
+Directions made User Friendly : OpenERP 7 helps you with easy and quick
+ directions on what next steps needs to be followed.
+\end_layout
+
+\begin_layout Enumerate
+User Interface : The change in color of user interface which give a powerful
+ feel to the user while using the software.
+ Further the buttons are simple and screen is less clutter as compare to
+ any other ERP software.
+\end_layout
+
+\begin_layout Enumerate
+Going Social ERP : The first page of messaging once the user logged into
+ the system offer you with quick list of task that is going on in their
+ departments.
+ User can join conversation similar to Facebook Notifications and every
+ creation of task has been showed in the home screen to know What’s Happening!
+\end_layout
+
+\begin_layout Enumerate
+Apps : Apps is a new name given to List of Modules in OpenERP version-7.
+ As there are more than 800+ modules available in OpenERP, further there
+ are new addition of apps social media integration is one of them.
+ Installation of Modules as per specific requirement is now much easier.
+\end_layout
+
+\end_body
+\end_document

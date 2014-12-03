@@ -1,0 +1,1 @@
+﻿Sanchaar is a php based web-erp system for college. An ERP system is a centralized software that manages various record keeping activities in any commertial/non commertial body. 

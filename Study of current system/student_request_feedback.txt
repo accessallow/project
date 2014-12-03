@@ -1,0 +1,38 @@
+Problem-4 student request complaint feedback 
+----------------------------------------------------------------
+Oriental Institute of Science and Technology,An Engineering Institute having more than 3000 students base has been facing a lot of problems in students request is not properly listen any department at this large scale. The existing personaly go to converse any faculty this is not possible.There is many reason most of the they have no time that time we have required so many other problem in current system is too slow to the new changes,sudden inquiry and its very hard and sometimes almost impossible to get any information on-hand for any query.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+			Current System Problem
+
+This type of the problem like most of the student that they do complaint any matter that have no any record.If any time want to feedback any problem like system than there is collect a bunch of paper.And most of the student feedback is not required but they give there feedback.So most of the time they make any desicion than these effect on the most student like if any time director want to feedback about faculty/teacher if thatday most of the student are not present and that day mostly these student are present which are not come daily.							         And if those student give there negative feedback than which teacher they give the feedback may be management fired.So in the current system if we want to change our system and analyse something related to the collage than we have required a system that give a proper and exact feedback about the faculty.
+
+--------------------------------------------------------------------------------------------------------------------------------   
+   				System we propose
+
+4.0.1 Student request management system-----
+      If any system which is manage every student related data that is very useful for making some good decision.About the student which is neccesory or which is not.
+
+4.0.2 Student online feedback-------------
+      If any plateform there is every student data have submitted like any student feed back which feed back is categerized by the student grade if any student grade are low than there is possibility is very low to count those student feedback.This system only count those student feedback which grade are good and those are regular in class.
+
+4.0.3 Complaint submission-------------
+      There is a another facility we have provides that is complaint submission if any student want to give complaint that is categerised by realted to account section,any libraries related issue and also so on. 
+           These complaint are categerised by related to these complaint.So this is very easy if any student have a any complaint than he complaint online and those complaint are also traced that complaint are recieved by the department or no this is also the mentioned.
+
+4.0.4 student,faculty feedback-------
+      Most of the benificial part is that if student want to complaint than there is a provides of student complaint.There is student complaint any problem like fee issue,academic issue,library issue.
+       Also there is proves if any faculty/teacher want to complaint related there salory,any other of the reason like in  class electricity problem and so on.
+
+-------------------------------------------------------------------------------------------------------------------------------
+         Problem solved
+
+4.1.0 Academic time save------
+      Most of the student if have a any problem than student go to those department there is no response of that problem.Between in this time most of the time are gone academic time.
+      So by this system student complaint online and save there academic time this is very benificial.
+
+4.1.1 Status Portal------------
+      There is a online status page we have provide there is if any status update than we it is update on the page.So there is a page where student see any update related there any collage activity.
+
+4.1.2 

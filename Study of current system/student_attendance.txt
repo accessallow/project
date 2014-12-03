@@ -1,0 +1,53 @@
+Problem Statement -3 
+---------------------------------------------------------------------------
+Oriental Institute of Science and Technology,An Engineering Institute having more than 3000 students base has been facing a lot of problems in students attandence problem at this large scale. The existing paper-work based system is too slow to the new changes,sudden inquiry and its very hard and sometimes almost impossible to get any information on-hand for any query.
+----------------------------------------------------------------------------------------------------------------------
+1.Process--------
+         In this process each teacher/faculty carrier a  attandance resister and take a attandence .Also every faculty take their seprate attandence .And also a somethimes that paper is lost.So the attandence of the student is not correctly mention.
+2.Problem-------
+         In this process the attendance of the student the result of the student related attandence quick result not found about the related of the attandence.
+2.1.0---Compilation                                                                      2.1.1 TIme Consuming---								   This is very tough process because each faculty take their own resister and take a seperate attandence of the each student every lecture.								          And each of faculty have their 40minutes class and take a 10-12minutes of attandence.Not only one lecture but all of the lecture.So the each of faculties lecture time is to get a very sort time.
+2.1.2 Complicated Report---								   This process of the student have their complicated record because if any student take a 5 lecture and after bunk the class than other faculty  attandence is mis-match of these student.
+2.1.3 Limitation Analysic---							  This process is very slow any overall any collage system to anylise something for own collage their is very complicated for them.And this process complicated and very costly because any system required a papers for collect their records this is very costly and any institute that is not take any analyse for the collage.
+
+
+----------------------------------------------------------------------------------------------------------------------------
+       Number of Solution this problem
+ Each of the collage of the problem have there attandence issue.The best of the solution of the student attandence is the used monitoring management system.
+3.0.1 In this ERP System best for teacher or faculty will be uploaded subject wise attendnce as they daily this is very benificial for the student because in this process teacher will be uploaded right attandence of the student.And student also know that there actual attandence of the class that is attand.
+3.0.2 Teacher will be able to uploaded daily-wise attandence as they daily do.This is very benificial for the student and the best for the TG because TG have collect the attaendance from every faculty that is very late.By the ERP system teacher uploded the attandance of the student than TG have seen there attandence from the particular system. And that is very easy.
+3.0.3 This system is also benificial for the Student because they will be able to see their day-wise and also a subect-wise attandence will be seen from the particular site they have not required to asked for the every faculty or a TG.And also this is very benificial for the student they also judge that which class have their sort attandence and which class their heigh.And they have improved their atttandence.
+3.0.4 Most of the very benificial for the system(TG,HOD,Director) because they will be able to see the analystic based reports for the collage system.And also a if any collage have a correct record for the attandence they will be analyse the other.									       Like in which subject have low attendance and in which subject high attendance all of the have seen than they will be take a correct decision.
+
+----------------------------------------------------------------------------------------------------------------------------  
+  This system also solved the problem
+
+3.1.1 Carray Record Problem---							     This is most of the problem solved that in old system TG have a bunch of records of the students only for the related of their attandence.In this system this problem is solved beacuse only one system have managed their all attendance related data.
+3.1.2 Compilation Problem----							 If any student want to know their attandence related data than he/she go to TG and asked them about the attandence than TG asked the student their name enrollment and so on.tha  search the attandence file than also search the every student in serial wise than he got. So there is compilation problem is arised because if any HOD want to any student attandence.So same process is required.								By this system student go to portal than he enter their name and enrollment he also got it correct attandence this is very right and easy process.
+3.1.3 Availability Problem---							 Most of the cases this problem is arised if any student want to know urgent their attandence any that day their own TG is not present than that is problem of availability that is very erritable for student.								  In this system their is not required any perticular person for check the data student know their data with the help of their system. 
+3.1.4 Post Semester dumping Problem----					 After end of the semester the attandence of the paper are collect in dumping file thier is no used and these all of the waste.So in this sytem there is no issue genrate this type of the problem.
+
+----------------------------------------------------------------------------------------------------------------------------                      		Additional Benifits   				
+
+with the help of this system there is another benfites also a 
+
+3.2.1 Smart Analysis-----								  
+
+This system used is analyse the smartly like which class attandence is very low in this month. And also a if any seminar are organised than what is the ratio of the attandence.
+
+3.2.2 Better Judgement for Analyse----							If any decision want taking than their is no requred the to asked for the student system take there own better decision.Like which faculty feedback is correct or which is not.This is judge by the attendance.
+
+3.2.3 Standared-----------									Most of the collage standared are increased because there is a system for taking the smartly decision for the collage.
+ 
+----------------------------------------------------------------------------
+    Problem in old system
+
+3.3.1 Time duration--------								 In the current process if any student have reqired to know their information related to the attendence than he asked firstly to the faculty than faculty says their is no attendance register.And finally students go to TG than after he check their data and also student finally got it attandence.										    In this system to know the attandence the time duration is very high.
+
+3.3.2 Student Academic Time Waste----						 During the known their attandence for the student the academic time is waste.And that time student not attend the class so the academic time is waste of the student.
+
+3.3.3 Decrease standared------							 If any standared collage have their this type of system than that collage standared we can think.because most of the faculty is tiered to collect the attendence of the student.so there is any smart system that is so correct information of the student.  
+								                              
+   
+   
+                                   
